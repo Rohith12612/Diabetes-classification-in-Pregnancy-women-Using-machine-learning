@@ -1,0 +1,2 @@
+# Diabetes-classification-in-Pregnancy-women-Using-machine-learning
+Machine learning project for early diabetes prediction in pregnant women using supervised classification models. Implemented Logistic Regression, LDA, QDA, KNN, Naive Bayes, and SVM with data preprocessing, feature engineering, PCA, and cross-validation. Models evaluated using accuracy and ROC-AUC to balance performance and interpretability.
